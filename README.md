@@ -205,7 +205,7 @@ When deploying (e.g., to Render, Vercel, or Railway):
 ## 👨‍💻 Author
 
 **Afif Fakhri**  
-[GitHub](https://github.com/afiffakhri) • [LinkedIn](https://linkedin.com/in/afiffakhri) • [Twitter / X](https://x.com/afif_fakhri) • [Website (Coming Soon)](https://afiffakhri.dev)
+[GitHub](https://github.com/afiffakhri) • [LinkedIn](https://linkedin.com/in/afiffakhri) • [Twitter / X](https://x.com/afif_fakhri) • [Website (Coming Soon)]
 
 ---
 
